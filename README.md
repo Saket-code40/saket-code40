@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, SQL, Data Science, Machine Learning & Power BI**
 
-- 📫 How to reach me **sharmasakeet014@gmail.com**
+- 📫 How to reach me **sharmasaket014@gmail.com**
 
 - 📄 Know about my experiences [https://saket-sharma-portfolio.vercel.app/](https://saket-sharma-portfolio.vercel.app/)
 
@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saketsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketsharmaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saketsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketsharma" height="30" width="40" /></a>
+<a href="https://twitter.com/saket59848247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saket59848247" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saket-sharma-924b33250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saket-sharma-924b33250" height="30" width="40" /></a>
 <a href="https://instagram.com/saketsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saketsharmaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saketsharma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saketsharma14" height="30" width="40" /></a>
 </p>
